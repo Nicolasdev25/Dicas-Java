@@ -1,0 +1,11 @@
+java:
+- Camel Case(atributos e métodos) 
+- Pascal case (classes)
+- java class -> ArmazenamentoSequencial.java
+- java métodos e atributos -> Camel case, armazenamentoSequencial
+
+-: 
+public class Principal{ # classe
+    
+    public static void main(String[] args){ } # método principal
+        
